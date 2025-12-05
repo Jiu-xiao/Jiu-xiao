@@ -16,4 +16,4 @@ _Open-source | Robotics | Embedded Systems_
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Jiu-xiao&show_icons=true&theme=transparent&count_private=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Jiu-xiao&show_icons=true&theme=transparent)
