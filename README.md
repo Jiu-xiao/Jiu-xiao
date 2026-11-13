@@ -16,5 +16,7 @@ _Open-source | Robotics | Embedded Systems_
 
 ---
 
-![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<p>
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="195">
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="195">
+</p>
